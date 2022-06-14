@@ -1,6 +1,4 @@
 # droup_introduction_screen
  smooth drop intro screen using flutter
-![start page]<img src="https://user-images.githubusercontent.com/74148269/173701544-b166f7dd-ad35-49ba-ab9a-91cbd5e0b29a.png" width="300" height="590">
-
-![last page]<img src="https://user-images.githubusercontent.com/74148269/173703306-a6314bd7-b340-4d81-a97c-55bf121bda82.png" width="300" height="590">
+![Screenshort]<img src="https://user-images.githubusercontent.com/74148269/173705230-aca1cd9f-6539-4608-8a94-3d6f55190186.png" width="300" height="590">
 
